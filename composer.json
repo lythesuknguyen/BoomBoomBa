@@ -1,11 +1,8 @@
 {
     "name": "lythesuknguyen/BoomBoomBa",
-    "version": "1.0.3",
-    "require": {},
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/lythesuknguyen/BoomBoomBa"
-        }
-    ]
+    "version": "3.1.7",
+    "dist": {
+        "url": "https://github.com/lythesuknguyen/BoomBoomBa.git",
+        "type": "zip"
+    }
 }
