@@ -2,11 +2,5 @@
 {
     "name": "lythesuknguyen/BoomBoomBa",
     "license": "MIT",
-    "require": {
-        "php": ">=5.4"
-    },
-    "minimum-stability": "stable",
-    "autoload": {
-        "classmap": [ "2013/" ]
-    }
+    "minimum-stability": "stable"
 }
