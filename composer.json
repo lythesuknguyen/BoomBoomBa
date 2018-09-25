@@ -1,17 +1,7 @@
 
 {
     "name": "lythesuknguyen/BoomBoomBa",
-    "type": "library",
-    "description": "Template based random string generator",
-    "keywords": ["generator","template","random","grammar"],
-    "homepage": "https://github.com/lythesuknguyen/BoomBoomBa",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Stefano Azzolini",
-            "email": "lastguest@gmail.com"
-        }
-    ],
     "require": {
         "php": ">=5.4"
     },
