@@ -1,0 +1,11 @@
+{
+    "require": {
+        "vendor/BoomBoomBa": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lythesuknguyen/BoomBoomBa.git"
+        }
+    ]
+}
