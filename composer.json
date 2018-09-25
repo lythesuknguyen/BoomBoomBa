@@ -1,11 +1,11 @@
 {
-    "require": {
-        "vendor/BoomBoomBa": "dev-master"
-    },
+    "name": "lythesuknguyen/BoomBoomBa",
+    "version": "1.0.3",
+    "require": {},
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/lythesuknguyen/BoomBoomBa.git"
+            "url": "https://github.com/lythesuknguyen/BoomBoomBa"
         }
     ]
 }
