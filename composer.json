@@ -1,4 +1,12 @@
 {
-    "name": "lythesuknguyen/BoomBoomBa"
+    "name": "enst/api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "voice",
+            "email": "rinh@i-voice.co.jp"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
-
